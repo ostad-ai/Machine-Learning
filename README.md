@@ -6,3 +6,4 @@
 5) Inner products in vector space: Reminding dot product and Frobenius inner product, and then canonical norms based on them. There are examples with module *numpy*.
 6) **Gram-Schmidt** process: An algorithm to convert a linearly independent set of vectors into an orthogonal set of vectors.
 7) Boxplot: The elements of a **boxplot** are reviewed here, including: medians, quartiles, fences, and outliers.
+8) Probability, standard terms: such as sample space, trial, outcome, and event.
