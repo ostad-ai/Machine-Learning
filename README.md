@@ -9,3 +9,4 @@
 8) Probability, standard terms: such as sample space, trial, outcome, and event.
 9) Logisitic function: It is an S-shaped curve, which is widely used in machine learning and neural networks.
 10) Sigmoid functions (curves): Some examples are included. They are widely used in neural networks and deep learning.
+11) Conditional probability: We review the conditional probability and based on it, we get the multiplication rule.  
