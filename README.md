@@ -11,3 +11,4 @@
 10) **Sigmoid functions (curves):** Some examples are included. They are widely used in neural networks and deep learning.
 11) **Conditional probability:** We review the conditional probability and based on it, we get the multiplication rule. 
 12) **Inclusion-exclusion principle:** We review this principle both in set theory and in probability. Python code is also provided. 
+13) **Probability, independent events:** The property of independent events are mentioned here. Also, multiplication rule is included with some examples.
