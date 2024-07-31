@@ -12,3 +12,4 @@
 11) **Conditional probability:** We review the conditional probability and based on it, we get the multiplication rule. 
 12) **Inclusion-exclusion principle:** We review this principle both in set theory and in probability. Python code is also provided. 
 13) **Probability, independent events:** The property of independent events are mentioned here. Also, multiplication rule is included with some examples.
+14) **Probability, Bayes' rule:** The Bayes' rule is expressed here along the total probability theorem. Bayes' rule is defined by conditional probabilities. Some Python code are included too.
