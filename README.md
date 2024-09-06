@@ -13,3 +13,4 @@
 12) **Inclusion-exclusion principle:** We review this principle both in set theory and in probability. Python code is also provided. 
 13) **Probability, independent events:** The property of independent events are mentioned here. Also, multiplication rule is included with some examples.
 14) **Probability, Bayes' rule:** The Bayes' rule is expressed here along the total probability theorem. Bayes' rule is defined by conditional probabilities. Some Python code are included too.
+15) **Linear Regression with Least Squares**:  When we assume the data points are related through a linear function, we can predict the dependent variable from independent variabe(s). This is a lienar regression. One way to find the parameters of a linear regression is to use a Least Squares estimator. The related Python code clarifies this topic.
