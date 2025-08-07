@@ -44,3 +44,5 @@ Here, we implement the Gini impurity in Python with some examples. It is reminde
 40) **Entropy:** The entropy is another diversity measure. It is also used in decision tree learning algorithms similar to the Gini impurity mentioned before. Entropy also quantifies the average amount of uncetainty or information for a random variable.
 We use the entropy here to measure the divesity of a dataset with code in Python. 
 It should be reminded that the Gini impurity is faster to compute than entropy. But for categorical features, the entropy is a better choice. 
+41) **Node splitting in decision trees:** A fundamental mechanism in decision trees is the **node splitting**. At each node, we decide on which feature of the dataset, the split should happen. This splitting of dataset is guided by a diversity measure such as *Gini impurity*, *informaton gain*, or *variance reduction*.
+Here, we review the node splitting in decision trees and give its related Python code. The assumption is that the features are numerical and the task is the *classification*. It is reminded that we can train decision trees for *regression* too. 
