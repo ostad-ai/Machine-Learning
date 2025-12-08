@@ -58,5 +58,5 @@ The AHC is tested by two toy datasets. Then, the AHC is tested by the Iris datas
 TF-IDF powers **search engine** results by ranking documents most relevant to a **query**. Beyond search, it is used for *text summarization*, *keyword extraction*, and as a foundational feature in machine learning tasks like **document classification** and **clustering**.
 Here, we implement TF-IDF from scratch in Python. Then, we use it for a small collection of documents to score terms. As a bonus, we provide the Python code to work with **scikit-learn** for TF-IDF.
 46) **Population variance versus sample variance:** Population variance measures the average squared deviation of all values in the entire population from the true **population mean**. 
-In contrast, when we don't have the entire population, and instead we have a sample of it, we need to compute the **sample variance**. Sample varaince estimates the population variance from a sample of data, using the **sample mean**. 
+In contrast, when we don't have the entire population, and instead we have a sample of it, we need to compute the **sample variance**. Sample variance estimates the population variance from a sample of data, using the **sample mean**. 
 Here, we review the formulae related to the two variances, and run a simulation to validate them.
