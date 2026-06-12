@@ -100,3 +100,5 @@ Here, we implement the Bag of words and provide an example all in Python.
 **Multinomial distribution** generalizes this to more than two outcomes, giving the counts of each category across independent trials where each trial lands in exactly one of several categories with fixed probabilities.
 In short, the binomial handles **two** outcomes, while the multinomial handles **three or more**.
 In the Notebook file here, we bring some functions related to these two distributions with some examples in Python.
+64) **Multinomial naive Bayes:** We already talked about **Bernoulli naive Bayes** in which the feature values are binary. This time, we review **multinomial NB** (naive Bayes) which uses **Bag-of-Words** representation for samples (documents). Thus, each fearure vector holds the counts of words in a document. Also, multinomial NB assumes data are drawn from a **multinomial distribution**. Earlier, we talked about multinomial distribution.
+Here, we implement *multinomial NB* from scratch in **Python**. Then, we use it with a simple corpus for *document classification*.
